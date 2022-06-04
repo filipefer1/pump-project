@@ -1,0 +1,22 @@
+{
+  "name": "pump-project",
+  "version": "1.0.0",
+  "description": "A script to help update dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "update dependencies"
+  ],
+  "author": "Filipe Fernandes",
+  "contributors": [
+    "Alfredo Henrique",
+    "Paulo Henrique",
+    "Jaynne Nunes"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
